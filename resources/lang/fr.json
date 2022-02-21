@@ -1,0 +1,5 @@
+{
+	"The :attribute must contain at least one uppercase and one lowercase letter.": "Le mot de passe doit contenir au moins une lettre minuscule, une lettre majuscule, un chiffre.",
+	"The :attribute must contain at least one number.": "Le mot de passe doit contenir au moins une lettre minuscule, une lettre majuscule, un chiffre.",
+	"The given password has appeared in a data leak. Please choose a different password.": "Le mot de passe donné est apparu dans une fuite de données. Veuillez choisir un autre mot de passe."
+}
